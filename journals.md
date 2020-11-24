@@ -1,5 +1,6 @@
 ## A ##
 
+-  **AAC** - Antimicrobial agents and chemotherapy
 -  **AAM** - Acta Applicandae Mathematicae
 -  **AAP** - Advances in Applied Probability
 -  **AB** - Animal Behaviour
@@ -392,6 +393,7 @@
 -  **Microbiology** - Microbiology
 -  **Mimeo** - Mimeo
 -  **MIT** - MIT Sloan School of Management Working Paper
+-  **MJ** - Malaria Journal
 -  **MMB** - Methods in Molecular Biology
 -  **MMBR** - Microbiology and Molecular Biology Reviews
 -  **MAST** - Multiagent System Technology
