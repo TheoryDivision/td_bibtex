@@ -504,6 +504,7 @@
 -  **RSA** - Random Structures and Algorithms
 -  **Sadhana** - Sadhana
 -  **SA** - Scientific American
+-  **SB** - Systematic Biology
 -  **SAJB** - South African Journal of Botany
 -  **SBB** - Soil Biology and Biochemistry
 -  **SciRep** - Scientific Reports
