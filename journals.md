@@ -300,6 +300,7 @@
 -  **JCIEM** - Journal du conseil international pour l'exploration de la mer
 -  **JChemP** - The Journal of Chemical Physics
 -  **JCO** - Journal of Clinical Oncology
+-  **JCOcci** - JCO clinical cancer informatics
 -  **JCPath** - Journal of Clinical Pathology
 -  **JCPsy** - Journal of Comparative Psychology
 -  **JCGS** - Journal of Computational and Graphical Statistics
@@ -369,6 +370,7 @@
 -  **LA** - The Lancet
 -  **LO** - The Lancet Oncology
 -  **LOM** - Limnology and Oceanography: Methods
+-  **LC** - Lung Cancer
 -  **MA** - Mathematische Annalen
 -  **MB** - Mathematical Biosciences
 -  **MBEn** - Mathematical Biosciences and Engineering
