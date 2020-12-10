@@ -80,7 +80,7 @@
 -  **BioEssays** - BioEssays
 -  **BI** - Bioinformatics
 -  **BPh** - Biochemical pharmacology
--  **bioRxiv - bioRxiv
+-  **bioRxiv** - bioRxiv
 -  **BioScience** - BioScience
 -  **BioSys** - BioSystems
 -  **BiuZ** - Biologie in unserer Zeit
@@ -321,7 +321,7 @@
 -  **JGP** - Journal of General Physiology
 -  **JGV** - Journal of General Virology
 -  **JH** - Journal of Heredity
-- **JHB** - journal of the history of biology
+- **JHB** - Journal of the History of Biology
 -  **JI** - Journal of Immunology
 -  **JID** - Journal of Infectious Diseases
 -  **JIE** - Journal of Industrial Economics
@@ -337,6 +337,7 @@
 -  **JMP** - Journal of Mathematical Physics
 -  **JMS** - Journal of Mathematical Sociology
 -  **JN** - Journal of Nutrition
+-  **JPH** - Journal of the Philosophy of History
 -  **JP** - Journal of Physiology
 -  **JPA** - Journal of Physics A
 -  **JPC** - Journal of Physical Chemistry
@@ -407,7 +408,7 @@
 -  **NArwa** - Nonlinear Analysis: Real World Applications
 -  **Nonlinearity** - Nonlinearity
 -  **Nature** - Nature
--  **NatCom** - Nature Communications
+-  **NatComm** - Nature Communications
 -  **NatCB** - Nature Cell Biology
 -  **NatEE** - Nature ecology and evolution
 -  **NatProt** - Nature Protocols
@@ -445,7 +446,7 @@
 -  **PA** - Physica A
 -  **PAMS** - Proceedings of the American Mathematical Society
 -  **PB** - Physikalische Blätter
--  **PBS** - Proceedings: Biological Sciences
+-  **PBS** - Proceedings of the Royal Society of London. B. Biological Sciences
 -  **PC** - Philosophy Compass
 -  **PCM** - Proceedings of the Fifth International Congress of Mathematicians
 -  **PCPS** - Proceedings of the Cambridge Philosophical Society
@@ -459,11 +460,11 @@
 -  **PIBBS** - Policy Insights from the Behavioral and Brain Sciences
 -  **PIEEE** - Proceedings of the IEEE
 -  **PLA** - Physics Letters A
--  **PLoSB** - PloS Biology
+-  **PlosB** - PloS Biology
 -  **PlosG** - PLoS Genetics
 -  **PlosCB** - PLoS Computational Biology
--  **PLosOne** - PLos One
--  **PLosPath** - PLoS Pathogens
+-  **PlosOne** - PLos One
+-  **PlosPath** - PLoS Pathogens
 -  **PLR** - Physics of Life Reviews
 -  **PMHAS** - Publ. Math. Inst. Hung. Acad. Sci.
 -  **PMPSC** - Proc. Midwest Political Science Convention
@@ -477,7 +478,7 @@
 -  **PRE** - Physical Review E
 -  **PRX** - Physical Review X
 -  **PRL** - Phys. Rev. Lett.
-- ** ProbS** - Probability Surveys
+- **ProbS** - Probability Surveys
 -  **PRR** - Physical Review (journal until 1969, Later PRL and PRA-E)
 -  **PRS** - Plastic and reconstructive surgery
 -  **PRSB** - Proc. Royal Soc. Lond. B. (full name: Proceedings of the Royal Society B: Biological Sciences)
