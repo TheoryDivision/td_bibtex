@@ -173,6 +173,7 @@
 -  **DN** - Die Naturwissenschaften
 -  **EA** - Evolutionary Applications
 -  **EB** - Economics Bulletin
+-  **EBM** - EBioMedicine
 -  **EC** - Ecological Complexity
 -  **EVC** - Evolutionary Computation
 -  **EL** - Ecology Letters
