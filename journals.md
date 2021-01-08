@@ -408,6 +408,7 @@
 -  **MSYS** - mSystems
 -  **NArwa** - Nonlinear Analysis: Real World Applications
 -  **Nonlinearity** - Nonlinearity
+-  **NL** - Nano Letters
 -  **Nature** - Nature
 -  **NatComm** - Nature Communications
 -  **NatCB** - Nature Cell Biology
@@ -522,6 +523,8 @@
 -  **STM** - Science Translational Medicine
 -  **Selection** - Selection
 -  **SCB** - Seminars in Cancer Biology
+-  **SRB** - Seminars in Radiation Biology
+-  **SNM** - Seminars in Nuclear Medicine
 -  **SHPBBS** - Studies in History and Philosophy of Biological and Biomedical Sciences
 -  **SI** - Seminars in Immunology
 -  **SIAMR** - SIAM Review
