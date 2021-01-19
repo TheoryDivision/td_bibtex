@@ -417,6 +417,7 @@
 -  **NB** - Nature biotechnology
 -  **NEJM** - The New England Journal of Medicine
 -  **NG** - Nature Genetics
+-  **NP** - Nature Physics
 -  **NJP** - New Journal of Physics
 -  **NJZ** - Netherlands Journal of Zoology
 -  **NM** - Nature Medicine
@@ -430,7 +431,6 @@
 -  **NRI** - Nature Reviews Immunology
 -  **NRM** - Nature Reviews Microbiology
 -  **NRMCB** - Nature Reviews Molecular Cell Biology
--  **NP** - New Phytologist
 -  **NS** - New Scientist
 -  **NAR** - Nucleic Acids Research
 
